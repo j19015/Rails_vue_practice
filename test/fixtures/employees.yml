@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  department: MyString
+  gender: 1
+  birth: 2022-02-06
+
+two:
+  name: 
+  department: MyString
+  gender: 1
+  birth: 2022-02-06
